@@ -1,3 +1,5 @@
+Fork of https://github.com/czerwonk/ping_exporter to push multi-arch images on Docker Hub (https://hub.docker.com/r/amovanb/ping-exporter).
+
 # ping_exporter
 [![Build Status](https://travis-ci.org/czerwonk/ping_exporter.svg)](https://travis-ci.org/czerwonk/ping_exporter)
 [![Docker Build Statu](https://img.shields.io/docker/build/czerwonk/ping_exporter.svg)](https://hub.docker.com/r/czerwonk/ping_exporter/builds)
